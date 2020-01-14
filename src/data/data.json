@@ -1,0 +1,225 @@
+[
+  {
+    "id": 1,
+    "title": "GTBank Quick Credit",
+    "minAmt": "10000",
+    "maxAmt": "5000000",
+    "minTenure": "1",
+    "maxTenure": "12",
+    "monthlyInterest": "1.75",
+    "loanImg": "https://www.gtbank.com/uploads/transforms/uploads/personal-banking/30977/QuickCredit_34026000d09c1aa5111bb72e00f37fae.png",
+    "dailyInterest": false,
+    "faq": [
+      "Satisfactory credit reports, Bank customers",
+      "Minimum monthly lodgement of N20,000 or earn a minimum net monthly salary of N10,000"
+    ],
+    "url": "https://www.gtbank.com/personal-banking/loans/quick-credit",
+    "lowInterest": "low Monthly Rates"
+  },
+
+  {
+    "id": 2,
+    "title": "Page Financials",
+    "minAmt": "200000",
+    "maxAmt": "5000000",
+    "minTenure": "1",
+    "maxTenure": "12",
+    "monthlyInterest": "3.19",
+    "loanImg": "https://pagefinancials.com/static/img/logo.png",
+    "dailyInterest": false,
+    "faq": [
+      "Good Credit Score",
+      "Salary earner and minimum amount starts from N200,000"
+    ],
+    "url": "https://pagefinancials.com/"
+  },
+
+  {
+    "id": 3,
+    "title": "Specta Loan",
+    "minAmt": "10000",
+    "maxAmt": "5000000",
+    "minTenure": "1",
+    "maxTenure": "12",
+    "monthlyInterest": "2.5",
+    "loanImg": "https://spectaxtreme.myspecta.com/assets/images/specta_logo.png",
+    "dailyInterest": false,
+    "faq": [
+      "Good Credit Score",
+      "Salary earners only, and non-bank customers eligible"
+    ],
+
+    "url": "https://spectaxtreme.myspecta.com/"
+  },
+  {
+    "id": 4,
+    "title": "RenMoney",
+    "minAmt": "50000",
+    "maxAmt": "4000000",
+    "minTenure": "1",
+    "maxTenure": "12",
+    "monthlyInterest": "5",
+    "loanImg": "https://bit.ly/2TlM6f2",
+    "dailyInterest": false,
+    "faq": ["Good Credit Score", "Salary earners only"],
+    "url": "https://www.renmoneyng.com/"
+  },
+  {
+    "id": 5,
+    "title": "Carbon(Paylater)",
+    "minAmt": "1500",
+    "maxAmt": "1000000",
+    "minTenure": "1",
+    "maxTenure": "6",
+    "monthlyInterest": "5.1",
+    "loanImg": "https://storage.googleapis.com/getcarboncdn/wp-content/uploads/2019/03/carbon_primary_positive_RGB.png",
+    "dailyInterest": false,
+    "faq": [
+      "Good Credit Score and loan given through app",
+      "Loan given according to risk level"
+    ],
+    "url": "https://getcarbon.co/"
+  },
+  {
+    "id": 6,
+    "title": "Credit direct",
+    "minAmt": "100000",
+    "maxAmt": "2500000",
+    "minTenure": "1",
+    "maxTenure": "12",
+    "monthlyInterest": "5",
+    "loanImg": "https://startcredits.com/wp-content/uploads/2018/05/creditdirect-loans.png",
+    "dailyInterest": false,
+    "faq": ["Good Credit Score", "Insurance cover of 1% is deducted from loan"],
+    "url": "https://www.creditdirect.ng/"
+  },
+  {
+    "id": 7,
+    "title": "eFinance",
+    "minAmt": "100000",
+    "maxAmt": "2000000",
+    "minTenure": "1",
+    "maxTenure": "6",
+    "monthlyInterest": "6",
+    "loanImg": "https://efinanceng.com/wp-content/uploads/2018/04/efiance-logo-2-.png",
+    "dailyInterest": false,
+    "faq": [
+      "Good Credit Score",
+      "Veritable source of Income and must work in Lagos"
+    ],
+
+    "url": "https://efinanceng.com/"
+  },
+  {
+    "id": 8,
+    "title": "C24",
+    "minAmt": "50000",
+    "maxAmt": "3000000",
+    "minTenure": "3",
+    "maxTenure": "13",
+    "monthlyInterest": "5.49",
+    "loanImg": "https://c24ng.com/images/logo.png",
+    "dailyInterest": false,
+    "faq": [
+      "Salary Earner with Good Credit Score",
+      "Offers Personal, Business and Quick Loans"
+    ],
+    "url": "https://c24ng.com/"
+  },
+  {
+    "id": 9,
+    "title": "Branch",
+    "minAmt": "1000",
+    "maxAmt": "200000",
+    "minTenure": "1",
+    "maxTenure": "1",
+    "monthlyInterest": "21",
+    "loanImg": "https://d2c5ectx2y1vm9.cloudfront.net/assets/logo-5a6f97f580a4f616c2d8eaee20ed2326c2bb68596e1aeb1d9b3364a2f1e6ae1b.png",
+    "dailyInterest": false,
+    "faq": [
+      "Offers Quick Loans",
+      "Usually 1month max for first time users, apply through app, interest reduces with time"
+    ],
+    "url": "https://branch.co/"
+  },
+  {
+    "id": 10,
+    "title": "KiaKia",
+    "minAmt": "10000",
+    "maxAmt": "200000",
+    "minTenure": "1",
+    "maxTenure": "1",
+    "monthlyInterest": "20",
+    "loanImg": "https://kiakia.co/assets/images/kiakialogo.png",
+    "dailyInterest": false,
+    "faq": [
+      "Offers Loans through chatbot",
+      "Usually 1month max for first time users, includes 800naira processing fees"
+    ],
+    "url": "https://kiakia.co/"
+  },
+  {
+    "id": 11,
+    "title": "Aella Credit",
+    "minAmt": "1500",
+    "maxAmt": "90000",
+    "minTenure": "1",
+    "maxTenure": "1",
+    "monthlyInterest": "29",
+    "loanImg": "https://aellacredit.com/static/media/aella-logo-blue.5dd5c033.svg",
+    "dailyInterest": false,
+    "faq": [
+      "Offers Loans through app",
+      "Usually 1month max for first time users, interest reduces with time"
+    ],
+    "url": "https://aellacredit.com/get-a-loan"
+  },
+  {
+    "id": 12,
+    "title": "Quick Check",
+    "minAmt": "1500",
+    "maxAmt": "30000",
+    "minTenure": "1",
+    "maxTenure": "1",
+    "monthlyInterest": "30",
+    "loanImg": "https://quickcheck.ng/wp-content/uploads/2019/09/logo.png",
+    "dailyInterest": false,
+    "faq": [
+      "Offers Loans through app",
+      "Usually 1month max for first time users, interest accrues daily"
+    ],
+    "url": "https://quickcheck.ng/"
+  },
+  {
+    "id": 13,
+    "title": "Fair Money",
+    "minAmt": "1500",
+    "maxAmt": "150000",
+    "minTenure": "1",
+    "maxTenure": "1",
+    "monthlyInterest": "30",
+    "loanImg": "https://fairmoney.ng/wp-content/uploads/2019/03/Fairmoney_full-2.png",
+    "dailyInterest": false,
+    "faq": [
+      "Offers Loans through app",
+      "Usually 1month max for first time users, interest reduces with time"
+    ],
+    "url": "https://fairmoney.ng/"
+  },
+  {
+    "id": 14,
+    "title": "Okash",
+    "minAmt": "12500",
+    "maxAmt": "60000",
+    "minTenure": "3",
+    "maxTenure": "12",
+    "monthlyInterest": "2",
+    "loanImg": "https://bit.ly/3a7HFud",
+    "dailyInterest": false,
+    "faq": [
+      "Offers Loans through app",
+      "Usually 3month min for first time users, interest reduces with time"
+    ],
+    "url": "https://play.google.com/store/apps/details?id=com.loan.cash.credit.okash.nigeria&hl=en"
+  }
+]
