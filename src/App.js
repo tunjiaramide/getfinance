@@ -68,14 +68,14 @@ class App extends Component {
       <React.Fragment>
         <NavBar />
 
-        <div className="container content">
+        <div className="container content col">
           <div className="heading mt-5" align="center">
             <h1>Loan Calculator</h1>
             <p>Get Loan options from different Loan Providers</p>
           </div>
 
           <section id="calculator">
-            <form onSubmit={this.handleSubmit}>
+            <form className="form" onSubmit={this.handleSubmit}>
               <div className="form-group">
                 <label htmlFor="LoanAmount">Desired Loan Amount</label>
                 <input

@@ -3,9 +3,6 @@ import LoanData from "./LoanData";
 
 class LoanResults extends Component {
   render() {
-    let principal = this.props.principal;
-    let period = this.props.period;
-    console.log(principal, period);
     return (
       <div>
         <div className="heading" align="center">

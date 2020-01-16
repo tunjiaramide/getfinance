@@ -8,10 +8,10 @@ function NavBar() {
       </a>
 
       <span className="navbar-text">
-        <a className="mr-4" href="/">
+        {/* <a className="mr-4" href="/">
           getLoans
         </a>
-        <a href="/">getInvestments</a>
+        <a href="/">getInvestments</a> */}
       </span>
     </nav>
   );

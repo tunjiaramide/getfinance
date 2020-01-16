@@ -6,7 +6,7 @@
     "maxAmt": "5000000",
     "minTenure": "1",
     "maxTenure": "12",
-    "monthlyInterest": "1.75",
+    "monthlyInterest": "1.33",
     "loanImg": "https://www.gtbank.com/uploads/transforms/uploads/personal-banking/30977/QuickCredit_34026000d09c1aa5111bb72e00f37fae.png",
     "dailyInterest": false,
     "faq": [
@@ -14,7 +14,7 @@
       "Minimum monthly lodgement of N20,000 or earn a minimum net monthly salary of N10,000"
     ],
     "url": "https://www.gtbank.com/personal-banking/loans/quick-credit",
-    "lowInterest": "low Monthly Rates"
+    "lowInterest": "lower Monthly Rates"
   },
 
   {
@@ -24,7 +24,7 @@
     "maxAmt": "5000000",
     "minTenure": "1",
     "maxTenure": "12",
-    "monthlyInterest": "3.19",
+    "monthlyInterest": "3.4",
     "loanImg": "https://pagefinancials.com/static/img/logo.png",
     "dailyInterest": false,
     "faq": [
