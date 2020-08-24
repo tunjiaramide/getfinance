@@ -13,7 +13,7 @@ class App extends Component {
       filteredData: "",
       loanAmount: "",
       loanDuration: "",
-      showComponent: false
+      showComponent: false,
     };
 
     this.handleChange = this.handleChange.bind(this);
@@ -26,7 +26,7 @@ class App extends Component {
     const name = target.name;
 
     this.setState({
-      [name]: value
+      [name]: value,
     });
   }
 
@@ -35,7 +35,7 @@ class App extends Component {
     let loanPeriod = this.state.loanDuration;
     let monthlyAmt;
 
-    let newData = this.state.loanData.filter(loan => {
+    let newData = this.state.loanData.filter((loan) => {
       return (
         principal >= parseInt(loan.minAmt) &&
         principal < parseInt(loan.maxAmt) &&
@@ -54,7 +54,7 @@ class App extends Component {
 
     this.setState({
       showComponent: true,
-      filteredData: newData
+      filteredData: newData,
     });
   };
 
