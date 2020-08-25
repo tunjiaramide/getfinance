@@ -70,8 +70,7 @@ class App extends Component {
 
         <div className="container content col">
           <div className="heading mt-5" align="center">
-            <h1>Loan Calculator</h1>
-            <p>Get Loan options from different Loan Providers</p>
+            <h1>Loan Online Calculator</h1>
           </div>
 
           <section id="calculator">
